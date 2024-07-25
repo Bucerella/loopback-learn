@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Product": 3
+  },
+  "models": {
+    "Product": {
+      "1": "{\"title\":\"string\",\"qty\":1,\"price\":4,\"id\":1}",
+      "2": "{\"title\":\"123\",\"qty\":11233,\"price\":1234,\"id\":2}"
+    }
+  }
+}
